@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdsaeed24 
-- 🌱 I’m currently learning and focused on advancing data analytics in collaborative projects. Let's connect and explore opportunities together.
+- 🌱 Ai Agent builder
 - 📫 How to reach me .. sayeedmohammed@myyahoo.com
 - ⚡ Fun fact: ...
 
